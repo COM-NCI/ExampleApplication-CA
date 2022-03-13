@@ -5,7 +5,7 @@ sudo npm install -g pm2
 # stop any instance of our application running currently
 pm2 stop example_app
 # change directory into folder where application is downloaded
-cd ExampleApplication/
+cd ExampleApplication-CA/
 # Install application dependancies
 npm install
 # echo $PRIVATE_KEY > privatekey.pem
